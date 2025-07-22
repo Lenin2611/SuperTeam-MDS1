@@ -1,5 +1,6 @@
 ### 1. Crear una nueva rama local con su nombre
 - git branch maryluna
+- git checkout -B maryluna 
 
 ### 2. Crear un nuevo commit en dicha rama local
 - Primer creo un nuevo archivo
