@@ -5,4 +5,3 @@ def limpiar():
         os.system('cls')
     else:
         os.system('clear')
-
